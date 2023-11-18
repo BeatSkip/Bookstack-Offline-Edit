@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Init": {
+      "commandName": "Project",
+      "commandLineArgs": "init --token FErq5FwguAO5N7YXL3irk61fH2ArSTLZ --secret xP98UB4Q4Gz327aTwj2M8j1ll02OhquH -h https://noco.optics11.com/api/ --debug -b https://noco.optics11.com/books/op1550-v40-main-documentation",
+      "workingDirectory": "C:\\Users\\Oscar\\Desktop\\vscodestack"
+    },
+    "Pull": {
+      "commandName": "Project",
+      "commandLineArgs": "pull --debug",
+      "workingDirectory": "C:\\Users\\Oscar\\Desktop\\vscodestack"
+    }
+  }
+}
